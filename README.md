@@ -41,11 +41,6 @@ negative_response
 end
 ```
 
-Or you can include your workflow image:
-
-```markdown
-![LangGraph Workflow](langgraph_flow.png)
-```
 
 ---
 
