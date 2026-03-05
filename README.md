@@ -44,7 +44,7 @@ end
 Or you can include your workflow image:
 
 ```markdown
-[Workflow Diagram](langgraph_flow.png)
+![LangGraph Workflow](langgraph_flow.png)
 ```
 
 ---
